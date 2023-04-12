@@ -6,7 +6,7 @@
 </template>
 <script>
 export default {
-  name : 'AppHeader',
+  name : 'AppTitle',
   data(){
         return {
             text: 'La mia prima applicazione con Vite!'

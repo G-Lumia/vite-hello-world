@@ -1,7 +1,7 @@
 <template>
     <div class>
-        <div class="jumbo">
-            <h2>
+        <div class="jumbotron bg-primary p-5 my-5">
+            <h2 class="text-light">
                 Uao! Il mio primo Jumbotron!
             </h2>
             <div class="photo">
