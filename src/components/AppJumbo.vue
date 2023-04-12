@@ -1,7 +1,12 @@
 <template>
     <div class>
-        <div class="container">
-            poop
+        <div class="jumbo">
+            <h2>
+                Uao! Il mio primo Jumbotron!
+            </h2>
+            <div class="photo">
+                <img src="../assets/Pac-Man-0.webp" alt="">
+            </div>
         </div>
     </div>
 </template>

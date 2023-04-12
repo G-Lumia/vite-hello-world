@@ -75,6 +75,22 @@ button:focus-visible {
   text-align: center;
 }
 
+.jumbo{
+  width: 1000px;
+  height: 500px;
+  background-color: white;
+  color: black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.photo img
+{
+  max-width: 200px;
+}
+
 @media (prefers-color-scheme: light) {
   :root {
     color: #213547;
